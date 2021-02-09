@@ -1,0 +1,5 @@
+put "请输入一个数字"
+input a
+push b "你输入的数字是："
+add b a c
+put c

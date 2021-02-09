@@ -1,0 +1,9 @@
+push a 0
+push b 100
+push c 1
+add a c a
+put a
+less a b g
+if g
+jump 2
+put "½áÊøÁËÀ²"

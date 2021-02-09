@@ -1,0 +1,9 @@
+put "start"
+main:
+put "1"
+put "2"
+ret
+put "3"
+call main
+put "4"
+put "5"

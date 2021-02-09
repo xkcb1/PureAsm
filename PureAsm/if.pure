@@ -1,0 +1,12 @@
+push a 10
+put "请输入一个数字"
+input b
+less b a c
+equal b a d
+greater b a e
+if c
+put "a小于b"
+if d
+put "a等于b"
+if e
+put "a大于b"

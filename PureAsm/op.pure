@@ -1,0 +1,13 @@
+push a 10
+push b 3
+push c 6
+add a b a1
+put a1
+minus a b b1
+put b1
+time a b c1
+put c1
+div a b d1
+put d1
+power a b h
+put h

@@ -1,0 +1,11 @@
+push a 10
+push b 100
+push c 10
+less a b d
+put d
+greater a b d
+put d
+equal a b d
+put d
+equal a c d
+put d

@@ -1,0 +1,4 @@
+push a 123
+put a
+push b "ÄãºÃ"
+put b
